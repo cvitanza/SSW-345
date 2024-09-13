@@ -7,13 +7,13 @@ This repository contains the homework manual for SSW-345. It includes various se
 ## Homework Tasks
 
 1. **Part I: Setting up LaTeX and Overleaf**  
-   Successfully set up LaTeX with Overleaf and created the Homework manual.
+   Set up LaTeX and Overleaf to streamline document creation. Uploaded instructor-provided files to Overleaf and learned to structure documents using LaTeX commands. This setup avoids local installations and simplifies real-time editing.
 
 2. **Part II: Learning Git**  
-   Practiced using Git commands and created a GitHub issue to track tasks.
+   Used Learn Git Branching to practice Git commands like git branch, git checkout, git merge, git rebase, git cherry-pick, and git tag. This improved my version control skills. Completion marks are shown below.
 
 3. **Part III: Create a GitHub Issue**  
-   Created a GitHub issue with a simple TODO list to track homework tasks.
+   Created a GitHub issue to track homework tasks, demonstrating the importance of clear documentation for effective project management. 
 
 ## Links
 
