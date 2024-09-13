@@ -18,7 +18,6 @@ This repository contains the homework manual for SSW-345. It includes various se
 ## Links
 
 - [Homework Issue](https://github.com/cvitanza/SSW-345/issues/1#issue-2523695783)
-- 
 
 ## Submission
 
